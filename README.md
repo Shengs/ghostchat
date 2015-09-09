@@ -6,5 +6,5 @@ No registration needed.
 Version 0.0.1 
 [Running on Heroku](http://ghostchat.herokuapp.com/)
 # Hint
-Remeber to allow https request on page to run the app.
+If the message is not showing up in box after click 'submit', please check safety option on page to run the app.
 For Chrome, click on the shield in the right side of address bar of that page and select 'Load unsafe script'.
